@@ -1,5 +1,7 @@
 // I used this sketch to draw a random number from 1-4. 
 // The winner got a free ticket to the first KiCad conference in Chicago, Illinois.
+// Written by Dr Peter Dalmaris, March 31 2019.
+// Techexplorations.com
 
 // Using code from example sketch Unicode_test from TFT_eSPI library
 #include <TFT_eSPI.h> // Hardware-specific library
